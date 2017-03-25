@@ -1,0 +1,73 @@
+@import url("reset.css");
+.navbar-header a {
+  color: white;
+  background: #454d50;
+  
+}
+.navbar-header a:hover {
+  background: #272b2e;
+  padding: 15px;
+  color: white;
+}
+.collapse .nav li a {
+  padding: 15px;
+  background: #454d50;
+  color: white;
+}
+.collapse .nav li a:hover {
+  background: #272b2e;
+  padding: 15px 13px;
+  color: white;
+}
+.navbar-default {
+  background-color: #454d50;
+  border-color: #e7e7e7;
+}
+.b{
+	a{
+		color: #000000;
+	}
+}
+.c {
+  float: left;
+  color: white;
+  background: #33383e;
+  
+}
+.c:hover{
+	background: #3e424b;
+	color: white;
+}
+.x {
+  margin-left: 15px;
+}
+.c2 {
+  float: right;
+  margin-left: -35px;
+  border-bottom: 1px solid #ccc;
+}
+.c3 {
+  float: right;
+  margin-left: 30px;
+}
+.cc {
+  margin-top: 20px;
+  float: right;
+}
+.container .row .col-sm-10 table tbody tr td {
+  border-top: none;
+  border-bottom: 1px solid #ccc;
+}
+.Page {
+  float: right;
+}
+.p{
+	margin-top: 20px;
+	border: 1px solid #ccc;
+	height: 320px;
+}
+.p2{
+	background: -webkit-linear-gradient(top,blue,red);
+	height: 66px;
+	margin-top: 20px;
+}
